@@ -9,6 +9,8 @@ My name is Joanna Kraciuk. I am master of two performed art and master of music 
 * SCRUM
 # Certificates
 # Courses
+* Testowanie oprogramowania i rozwój kompetencji cyfrowych DIGCOMP (w trakcie)
+* uTest Academy (w trakcie)
 # Books
 * Radosław Smiglin "Zawód tester"
 * Karolina Zmitrowicz "Tester oprogramowania"
