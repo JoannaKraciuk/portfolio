@@ -15,7 +15,7 @@ My name is Joanna Kraciuk. I am master of two performed art and master of music 
 * Radosław Smiglin "Zawód tester"
 * Karolina Zmitrowicz "Tester oprogramowania"
 # Groups on Facebook
-* Tester oprogramowania - wsparci na starcie
+* Tester oprogramowania - wsparcie na starcie
 * Praca w IT dla Stażystów i Juniorów (IT Jobs for Intern/Junior) POLSKA
 * Bazy danych i SQL dla początkujących
 * Zdobywamy pierwszą pracę w IT
