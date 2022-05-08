@@ -28,7 +28,7 @@ My name is Joanna Kraciuk. I am master of two performed art and master of music 
 # Webinars
 * UX/UI Design SDAcademy
 # My Test Documentation
-* Bug reports
+* Bug reports  https://asia12345.atlassian.net/browse/OA-8?atlOrigin=eyJpIjoiZWE5M2JlNzA4MTM5NGUxOWIwOWI5ZDdhNWNjZjRiMDciLCJwIjoiaiJ9
 * Test Reports
 * Test Cases
 * Test Scenario
