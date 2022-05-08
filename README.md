@@ -27,3 +27,8 @@ My name is Joanna Kraciuk. I am master of two performed art and master of music 
 * remigiuszbednarczyk.pl
 # Webinars
 * UX/UI Design SDAcademy
+# My Test Documentation
+* Bug reports
+* Test Reports
+* Test Cases
+* Test Scenario
