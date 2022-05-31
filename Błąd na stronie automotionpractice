@@ -1,0 +1,25 @@
+#Wpisanie ujemnej liczny w polu "Quantity"
+
+Opis
+
+#Kroki:
+
+    Otworzyć przeglądarkę Mozilla Firefox
+
+    Wyszukać stronę http://automationpractice.com/index.php 
+
+    Wybrać dowolny przedmiot i wejść w jego opis.
+
+    W polu Quantity wpisać “-10”
+
+    Kliknąć <Add to cart>
+
+#Oczekiwany rezultat:
+
+Brak możliwości wpisania ujemnej liczby w polu Quantity.
+
+#Aktualny rezultat:
+Po wpisaniu ujemnej liczby, do koszyka zostaje dodana liczba przedmiotów bez “-”, np.: -10 - po zatwierdzeniu w koszyku jest 10 przedmiotów.
+Środowisko
+
+Windows 11, Mozilla Firefox 99.0.1
