@@ -20,6 +20,7 @@ Brak możliwości wpisania ujemnej liczby w polu Quantity.
 
 Aktualny rezultat:
 Po wpisaniu ujemnej liczby, do koszyka zostaje dodana liczba przedmiotów bez “-”, np.: -10 - po zatwierdzeniu w koszyku jest 10 przedmiotów.
+
 Środowisko
 
 Windows 11, Mozilla Firefox 99.0.1
