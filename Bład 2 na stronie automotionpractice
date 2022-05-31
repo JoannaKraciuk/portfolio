@@ -1,0 +1,21 @@
+Po kliknięciu na zdjęcia z promocjami, przeniesienie na stronę https://www.prestashop.com/pl?utm_source=v16_homeslider
+
+Kroki:
+
+Otwórz przeglądarkę Mozilla Firefox
+
+Wejdź na stronę  http://automationpractice.com/index.php 
+
+Po prawej stronie kliknij zdjęcie z promocją
+
+Oczekiwany rezultat: 
+
+Użytkownik zostanie przeniesiony na stronę z promocjami.
+
+Aktualny rezultat:
+
+Użytkownik zostaje przekierowany na stronę https://www.prestashop.com/pl
+
+Środowisko
+
+Windows 11, Mozilla 99.0.1.
