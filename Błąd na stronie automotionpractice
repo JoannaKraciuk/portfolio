@@ -1,8 +1,8 @@
-#Wpisanie ujemnej liczny w polu "Quantity"
+# Wpisanie ujemnej liczny w polu "Quantity"
 
 Opis
 
-#Kroki:
+# Kroki:
 
     Otworzyć przeglądarkę Mozilla Firefox
 
@@ -14,11 +14,11 @@ Opis
 
     Kliknąć <Add to cart>
 
-#Oczekiwany rezultat:
+# Oczekiwany rezultat:
 
 Brak możliwości wpisania ujemnej liczby w polu Quantity.
 
-#Aktualny rezultat:
+# Aktualny rezultat:
 Po wpisaniu ujemnej liczby, do koszyka zostaje dodana liczba przedmiotów bez “-”, np.: -10 - po zatwierdzeniu w koszyku jest 10 przedmiotów.
 Środowisko
 
