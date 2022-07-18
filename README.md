@@ -11,7 +11,7 @@ My name is Joanna Kraciuk. I am master of two performed art and master of music 
 * SCRUM
 # Certificates
 # Courses
-* Testowanie oprogramowania i rozwój kompetencji cyfrowych DIGCOMP (w trakcie)
+* Testowanie oprogramowania i rozwój kompetencji cyfrowych DIGCOMP
 * uTest Academy (w trakcie)
 * "Testowanie Rest Api - wprowadzenie" Akademia QA
 # Books
