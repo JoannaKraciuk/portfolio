@@ -14,6 +14,7 @@ My name is Joanna Kraciuk. I am master of two performed art and master of music 
 * Testowanie oprogramowania i rozwój kompetencji cyfrowych DIGCOMP luty-czerwiec 2022
 * uTest Academy (w trakcie)
 * "Testowanie Rest Api - wprowadzenie" Akademia QA
+* "Bazy danych MySQL" Mirosław Zelent
 # Books
 * Radosław Smiglin "Zawód tester"
 * Karolina Zmitrowicz "Tester oprogramowania"
