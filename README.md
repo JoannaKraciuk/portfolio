@@ -10,7 +10,7 @@ My name is Joanna Kraciuk. I am master of two performed art and master of music 
 * SQL
 * SCRUM
 # Certificates
-* Certyfikat ECCC Testowanie oprogramowania"
+* Certyfikat ECCC "Testowanie oprogramowania"
 * Certyfikat ECCC "Kompetencje cyfrowe DigComp"
 # Courses
 * Testowanie oprogramowania i rozwój kompetencji cyfrowych DIGCOMP luty-czerwiec 2022
