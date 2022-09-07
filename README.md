@@ -5,6 +5,7 @@ My name is Joanna Kraciuk. I am master of two performed art and master of music 
 # Tools
 * Redmine, Trello, Jira - Issue tracking and project management tool for developers
 * MySQL
+* TestLink
 # Tech skills
 * Reporting bugs
 * SQL
@@ -17,6 +18,7 @@ My name is Joanna Kraciuk. I am master of two performed art and master of music 
 * uTest Academy (w trakcie)
 * "Testowanie Rest Api - wprowadzenie" Akademia QA
 * "Bazy danych MySQL" Mirosław Zelent
+* "Dokumentacja testowa w TestLink" www.wyszkolewas.com.pl
 # Books
 * Radosław Smiglin "Zawód tester"
 * Karolina Zmitrowicz "Tester oprogramowania"
