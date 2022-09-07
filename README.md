@@ -8,6 +8,7 @@ My name is Joanna Kraciuk. I am master of two performed art and master of music 
 * TestLink
 # Tech skills
 * Reporting bugs
+* Knowledge ISTQB FL
 * SQL
 * SCRUM
 # Certificates
