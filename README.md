@@ -8,6 +8,8 @@ My name is Joanna Kraciuk. I am master of two performed art and master of music 
 * Postman
 * TestLink
 # Tech skills
+* Creating test case
+* Creating scenarios
 * Reporting bugs
 * Knowledge ISTQB FL
 * SQL
