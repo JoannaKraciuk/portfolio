@@ -5,6 +5,7 @@ My name is Joanna Kraciuk. I am master of two performed art and master of music 
 # Tools
 * Redmine, Trello, Jira - Issue tracking and project management tool for developers
 * MySQL
+* Postman
 * TestLink
 # Tech skills
 * Reporting bugs
