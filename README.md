@@ -43,6 +43,8 @@ My name is Joanna Kraciuk. I am master of two performed art and master of music 
 * Playwright w pigułce - Przemysław Paczoski CanTestIT
 * Szkolenia dla QA Adam Gola - "O dostępności" 
 # My Test Documentation
+* Exploration tests: [Exploratory testing](https://github.com/JoannaKraciuk/portfolio/blob/main/Testy%20eksploracyjne.md)
 * Test scenario and bug reports https://drive.google.com/drive/folders/1Jzx7RyQDDpETEfMKb-nzECp3zHwMXjhk?usp=sharing
 * Bug reports  https://drive.google.com/drive/folders/1lVQGlDuNAoRI2HzJ7y8nn48m25Dir4Wj?usp=sharin
 * Test reports https://drive.google.com/drive/folders/1DhJCQdj8xPyGIIhHHBB3gCwsU3EkDAB-?usp=sharing
+
