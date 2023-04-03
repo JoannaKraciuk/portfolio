@@ -19,6 +19,8 @@ My name is Joanna Kraciuk. I am master of two performed art and master of music 
 # 🥇 Certificates
 * Certyfikat ECCC "Testowanie oprogramowania"
 * Certyfikat ECCC "Kompetencje cyfrowe DigComp"
+* "Kurs Git dla początkujących" Udemy
+* "Podstawy SCRUM, Agile, Teoria, Praktyka, Certyfikacja" Udemy
 # 🖋️Courses
 * Testowanie oprogramowania i rozwój kompetencji cyfrowych DIGCOMP luty-czerwiec 2022
 * uTest Academy (w trakcie)
