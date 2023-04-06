@@ -23,7 +23,7 @@ My name is Joanna Kraciuk. I am master of two performed art and master of music 
 * "Podstawy SCRUM, Agile, Teoria, Praktyka, Certyfikacja" Udemy
 # 🖋️Courses
 * Testowanie oprogramowania i rozwój kompetencji cyfrowych DIGCOMP luty-czerwiec 2022
-* uTest Academy (w trakcie)
+* uTest Academy
 * "Testowanie Rest Api - wprowadzenie" Akademia QA
 * "Bazy danych MySQL" Mirosław Zelent
 * "Dokumentacja testowa w TestLink" www.wyszkolewas.com.pl
@@ -49,6 +49,7 @@ My name is Joanna Kraciuk. I am master of two performed art and master of music 
 * Szkolenia dla QA Adam Gola - "O dostępności" 
 # 📑My Test Documentation
 * Exploratory testing of application skleptest.pl: [Exploratory testing](https://github.com/JoannaKraciuk/portfolio/blob/main/Testy%20eksploracyjne.md)
+* Test Cases skleptest.pl:[Test Cases](https://docs.google.com/spreadsheets/d/18LNV4K60lHPjdTnxc1YdKW5gzbNm79sAi122oPcoBng/edit?usp=sharing)
 * Test scenario and bug reports https://drive.google.com/drive/folders/1Jzx7RyQDDpETEfMKb-nzECp3zHwMXjhk?usp=sharing
 * Bug reports  https://drive.google.com/drive/folders/1lVQGlDuNAoRI2HzJ7y8nn48m25Dir4Wj?usp=sharin
 * Test reports https://drive.google.com/drive/folders/1DhJCQdj8xPyGIIhHHBB3gCwsU3EkDAB-?usp=sharing
