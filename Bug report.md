@@ -17,3 +17,12 @@ Attachments:
 [BUG 2](https://drive.google.com/file/d/1-sKfjmW0CCjCORcfoY5jGFy0xEmVWh9o/view?usp=sharing)
 [BUG 2.1](https://drive.google.com/file/d/12tQos2Nl0dYT-BA422M3Vk6z9-wAEEIE/view?usp=sharing)
 
+### ❌**BU-3: The user can not change the password**
+
+![The user can not change the password](https://github.com/JoannaKraciuk/Photo/blob/20705a16e7ebd78045e012f8c044c85e0bff17fd/BUG%20-3.png)
+![Screenshot BU-3.1](https://github.com/JoannaKraciuk/Photo/blob/20705a16e7ebd78045e012f8c044c85e0bff17fd/BUG%203.1.png)
+
+Attachments:
+[BUG 3](https://drive.google.com/file/d/1LQh8li7SBr0q-bM88UqGWVPm0n3dvJ6H/view?usp=sharing)
+[BUG 3.1](https://drive.google.com/file/d/1jv2Ox5E9yvZKY00_KK6qwKR7DNQhTbuB/view?usp=sharing)
+
