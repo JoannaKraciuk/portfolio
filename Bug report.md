@@ -1,3 +1,4 @@
-##Bug report in Jira:
+Bug report in Jira:
+
 👉[BU-1]
 
