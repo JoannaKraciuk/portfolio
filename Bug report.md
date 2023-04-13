@@ -5,5 +5,16 @@
 ![Screenshot BU-1](https://github.com/JoannaKraciuk/Photo/blob/2f705f4936e25551eb235621025170de33c2fa6e/Screen%20BU-1.1.png)
 
 Attachments:
-[BUG1](https://drive.google.com/file/d/1-sKfjmW0CCjCORcfoY5jGFy0xEmVWh9o/view?usp=sharing)
+[BUG 1](https://drive.google.com/file/d/1-sKfjmW0CCjCORcfoY5jGFy0xEmVWh9o/view?usp=sharing)
 [BUG 1.1](https://drive.google.com/file/d/1qzBrZ-dbv6zXAxYik_wmpGvPFrvqIMBD/view?usp=sharing)
+
+
+### ❌**BU-2: Data remember function does not work**
+
+![Data remember function does not work](https://github.com/JoannaKraciuk/Photo/blob/066bc112dce1f9e4a2c30540f596f98e6207f039/Screen%20BU-2.png)
+![Screenshot BU-2](https://github.com/JoannaKraciuk/Photo/blob/066bc112dce1f9e4a2c30540f596f98e6207f039/Screen%20BU-2.2.png)
+
+Attachments:
+[BUG 2](https://drive.google.com/file/d/1-sKfjmW0CCjCORcfoY5jGFy0xEmVWh9o/view?usp=sharing)
+[BUG 2.1](https://drive.google.com/file/d/12tQos2Nl0dYT-BA422M3Vk6z9-wAEEIE/view?usp=sharing)
+
