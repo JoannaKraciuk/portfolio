@@ -1,7 +1,7 @@
 ## 🗒️Bug report in Jira:
 ### ❌**BU-1: Reset email wasn't sent to the user's email**
 https://gi
-![Reset email wasn't sent to the user email](https://github.com/JoannaKraciuk/portfolio/blob/481e5862c7bb469b2d541ae5c2b644b5248e7e8e/Images/BU-1.png)
+![Reset email wasn't sent to the user email](https://github.com/JoannaKraciuk/portfolio/blob/cb5f71b8ac1929739ebab90dc7b707aeee930424/Images/BU%20-1%20poprawione.png)
 ![Screenshot BU-1](https://github.com/JoannaKraciuk/Photo/blob/08f4b90867be7a9b8b472b4fdbd93e8a869026c6/Bu%201.1%20poprawione.png)
 
 Attachments:
