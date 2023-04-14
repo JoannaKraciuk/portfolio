@@ -79,10 +79,11 @@ Aplikacja jest intuicyjna, logo, panel wyszukiwania, panel logowania oraz koszyk
 - **STRONA GŁÓWNA:**
     
 
-	❌   Nieprawidłowo wyświetlane zdjęcia.
+	-   Nieprawidłowo wyświetlane zdjęcia.
+	
 	![tekst alternatywny](https://github.com/JoannaKraciuk/portfolio/blob/93b9fab88aad1e22104d4a230b62b1fc325474c7/Images/1.png)
     
-	❌   Nie można wejść w opis produktu, po kliknięciu w jego zdjęcie.
+	-   Nie można wejść w opis produktu, po kliknięciu w jego zdjęcie.
     
 	-   Wszystkie buttony "Shop now" na stronie głównej przekierowują do nieistniejącej strony (status code 404).
 	![tekst alternatywny](https://github.com/JoannaKraciuk/portfolio/blob/0737f395f90f9794cad9e54a18b3deb55bf2ccb4/Images/2.png)
