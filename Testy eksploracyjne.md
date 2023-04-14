@@ -80,7 +80,7 @@ Aplikacja jest intuicyjna, logo, panel wyszukiwania, panel logowania oraz koszyk
     
 
 	-   Nieprawidłowo wyświetlane zdjęcia.
-	![tekst alternatywny](https://github.com/JoannaKraciuk/photos/blob/main/Photo%20main%20page.png?raw=true)
+	![tekst alternatywny](https://github.com/JoannaKraciuk/portfolio/blob/93b9fab88aad1e22104d4a230b62b1fc325474c7/Images/1.png)
     
 	-   Nie można wejść w opis produktu, po kliknięciu w jego zdjęcie.
     
