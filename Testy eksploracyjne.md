@@ -85,8 +85,8 @@ Aplikacja jest intuicyjna, logo, panel wyszukiwania, panel logowania oraz koszyk
 	-   Nie można wejść w opis produktu, po kliknięciu w jego zdjęcie.
     
 	-   Wszystkie buttony "Shop now" na stronie głównej przekierowują do nieistniejącej strony (status code 404).
-	![tekst alternatywny](https://github.com/JoannaKraciuk/photos/blob/main/Buy%20now.png?raw=true)
-	![tekst alternatywny](https://github.com/JoannaKraciuk/photos/blob/main/Page%20not%20found.png?raw=true)
+	![tekst alternatywny](https://github.com/JoannaKraciuk/portfolio/blob/0737f395f90f9794cad9e54a18b3deb55bf2ccb4/Images/2.png)
+	![tekst alternatywny](https://github.com/JoannaKraciuk/portfolio/blob/0737f395f90f9794cad9e54a18b3deb55bf2ccb4/Images/3.png)
 
     
 	-   Button "Learn more" przekierowuje do strony z formularzem kontaktowym.
@@ -94,14 +94,14 @@ Aplikacja jest intuicyjna, logo, panel wyszukiwania, panel logowania oraz koszyk
 	-   Po kliknięciu w strzałki, które powinny przewijać produkty, przekierowują na górę strony głównej.
     
 	-   Po kliknięciu pod zdjęciem produktu "View cart" nie zostaje wykonana żadna akcja.
-	![tekst alternatywny](https://github.com/JoannaKraciuk/photos/blob/main/View%20cart.png?raw=true)
+	![tekst alternatywny](https://github.com/JoannaKraciuk/portfolio/blob/0737f395f90f9794cad9e54a18b3deb55bf2ccb4/Images/4.png)
     
 	-   W opis produktu można wejść jedynie poprzez umieszczenie produktu w koszyku, a następnie z tego miejsca przejście do karty produktu.
     
 	-   Po dodaniu produktów do koszyka, cena w koszyku na stronie głównej nie zmienia się; dopiero po kliknięciu <My Cart> zostaje zaktualizowana.
     
 	-   Cena w koszyku wyświetlana jest z symbolem „zł” na początku oraz z dwoma miejscami po przecinku, nawet jeśli są to zera.
-	![tekst alternatywny](https://github.com/JoannaKraciuk/photos/blob/main/Zla%20Cena%20My%20Cart.png?raw=true)
+	![tekst alternatywny](https://github.com/JoannaKraciuk/portfolio/blob/0737f395f90f9794cad9e54a18b3deb55bf2ccb4/Images/5.png)
     
 	-   Można subskrybować newsletter, w polu e-mail wpisując dowolny znak.
    
@@ -110,13 +110,13 @@ Aplikacja jest intuicyjna, logo, panel wyszukiwania, panel logowania oraz koszyk
 	
 	-  Możliwość wielokrotnej rejestracji na tego samego maila.
 	-  Możliwość zapisania się do newslettera bez poprawnego maila.
-	![tekst alternatywny](https://github.com/JoannaKraciuk/photos/blob/main/Subscribe.png?raw=true)
+	![tekst alternatywny](https://github.com/JoannaKraciuk/portfolio/blob/0737f395f90f9794cad9e54a18b3deb55bf2ccb4/Images/6.png)
 	
 - **MOST WANTED:**
 	
 	- Logo sklepu jest przesunięte w prawo względem pozycji ze strony głównej.
 	- Po wyswietleniu produktu i powiększeniu jego zdjęcia, kliknięcie w lupkę powiększającą przekierowuje do koszyka.
-	![tekst alternatywny](https://github.com/JoannaKraciuk/photos/blob/main/Most%20Wanted1.png?raw=true)
+	![tekst alternatywny](https://github.com/JoannaKraciuk/portfolio/blob/0737f395f90f9794cad9e54a18b3deb55bf2ccb4/Images/7.png)
 	- Po wyświetleniu zdjęcia, nie działa powiększenie, jak również zamknięcie zdjęcia poprzez button krzyżyka.
 	- Będąc na stronie przediotów MOST WANTED, można je dodać do koszyka jedynie w ilości 99 lub 100 sztuk, po uprzednim usunięciu minusa przed ilością produktów.
 	- Kolejne dodanie 99 lub 100 sztuk produktu do koszyka, powoduje nieprawidłowe zwiększenie jego ilości.
@@ -125,19 +125,19 @@ Aplikacja jest intuicyjna, logo, panel wyszukiwania, panel logowania oraz koszyk
 - **CATEGORIES:**
 	
 	- Literówka w panelu głównym "CATERGRIES" zamiast "CATEGORIES".
-	![tekst alternatywny](https://github.com/JoannaKraciuk/photos/blob/main/Categories.png?raw=true)
+	![tekst alternatywny](https://github.com/JoannaKraciuk/portfolio/blob/0737f395f90f9794cad9e54a18b3deb55bf2ccb4/Images/8.png)
 	- W rozwijalnym menu, po wyświetleniu wszystkich produktów (ALL) większość zdjęć kategorii, nie jest widoczna.
 	- W kategorii "Shoes" wyświetlają się również bluzki.
 	
 - **ABOUT US:**
 	
 	- Nie ma możliwości wysłania maila po wpisaniu prawidłowych danych.
-	![tekst alternatywny](https://github.com/JoannaKraciuk/photos/blob/main/Message.png?raw=true)
+	![tekst alternatywny](https://github.com/JoannaKraciuk/portfolio/blob/0737f395f90f9794cad9e54a18b3deb55bf2ccb4/Images/9.png)
 
 - **KOSZYK:**
     
 	 -   Nominał „zł” przy cenie produktu, jest umieszczony w prawym górnym rogu, zamiast na dole za ceną.
-	![tekst alternatywny](https://github.com/JoannaKraciuk/photos/blob/main/nominal%20u%20gory.png?raw=true)
+	![tekst alternatywny](https://github.com/JoannaKraciuk/portfolio/blob/0737f395f90f9794cad9e54a18b3deb55bf2ccb4/Images/10.png)
         
    	 -   Nie działa button „x” przy produkcie; nie można usunąć produktu z koszyka, jedynie za pomocą zmniejszenia jego ilości do 0, a następnie aktualizacji koszyka.
         
@@ -158,10 +158,10 @@ Aplikacja jest intuicyjna, logo, panel wyszukiwania, panel logowania oraz koszyk
 	
 - **BLOG:**
 	- Na stronie widnieją trzy pola wyszukiwania:
-	![tekst alternatywny](https://github.com/JoannaKraciuk/photos/blob/main/Search.png?raw=true)
+	![tekst alternatywny](https://github.com/JoannaKraciuk/portfolio/blob/0737f395f90f9794cad9e54a18b3deb55bf2ccb4/Images/11.png)
 	
 - **CHECKOUT:**
 	
 	- Nie ma możliwości dodania alternatywnego adresu dostawy po zaznaczeniu odpowiedniej opcji.
-	![tekst alternatywny](https://github.com/JoannaKraciuk/photos/blob/main/Delivery%20address.png?raw=true)
+	![tekst alternatywny](https://github.com/JoannaKraciuk/portfolio/blob/0737f395f90f9794cad9e54a18b3deb55bf2ccb4/Images/12.png)
 
