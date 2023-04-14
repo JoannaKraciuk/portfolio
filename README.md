@@ -50,7 +50,7 @@ My name is Joanna Kraciuk. I am master of two performed art and master of music 
 # 📑My Test Documentation
 * Exploratory testing of application skleptest.pl: [Exploratory testing](https://github.com/JoannaKraciuk/portfolio/blob/main/Testy%20eksploracyjne.md)
 * Test Cases skleptest.pl: [Test Cases](https://docs.google.com/spreadsheets/d/18LNV4K60lHPjdTnxc1YdKW5gzbNm79sAi122oPcoBng/edit?usp=sharing)
-* Bug report skleptest.pl: [Bug report in Jira](https://github.com/JoannaKraciuk/portfolio/blob/fcef3098f7e72b7ffe26bf6a2456064399470174/Bug%20report.md)
+* Bug report skleptest.pl: [Bug report in Jira](https://github.com/JoannaKraciuk/portfolio/blob/bfa447dfa438406d43a2f7f640012e941b7086e4/Bug%20report.md)
 * Test scenario and bug reports https://drive.google.com/drive/folders/1Jzx7RyQDDpETEfMKb-nzECp3zHwMXjhk?usp=sharing
 * Bug reports  https://drive.google.com/drive/folders/1lVQGlDuNAoRI2HzJ7y8nn48m25Dir4Wj?usp=sharin
 * Test reports https://drive.google.com/drive/folders/1DhJCQdj8xPyGIIhHHBB3gCwsU3EkDAB-?usp=sharing
