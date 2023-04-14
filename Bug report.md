@@ -1,28 +1,28 @@
 ## 🗒️Bug report in Jira:
 ### ❌**BU-1: Reset email wasn't sent to the user's email**
 
-![Reset email wasn't sent to the user email](https://github.com/JoannaKraciuk/portfolio/blob/cb5f71b8ac1929739ebab90dc7b707aeee930424/Images/BU%20-1%20poprawione.png)
-![Screenshot BU-1](https://github.com/JoannaKraciuk/portfolio/blob/d7ca517ae1f8285557e891f3fbf0d75325210d5c/Images/Bu%201.1%20poprawione.png)
+![Reset email wasn't sent to the user email](https://github.com/JoannaKraciuk/portfolio/blob/f5fad4c84cc5154f4514180d48afd97e422739ab/Images/Jira%20BUG%201.1.png)
+![Screenshot BU-1](https://github.com/JoannaKraciuk/portfolio/blob/f5fad4c84cc5154f4514180d48afd97e422739ab/Images/Jira%20BUG%201.2.png)
 
 Attachments:
-[BUG 1](https://drive.google.com/file/d/1-sKfjmW0CCjCORcfoY5jGFy0xEmVWh9o/view?usp=sharing)
-[BUG 1.1](https://drive.google.com/file/d/1qzBrZ-dbv6zXAxYik_wmpGvPFrvqIMBD/view?usp=sharing)
+[BUG 1.1](https://github.com/JoannaKraciuk/portfolio/blob/f5fad4c84cc5154f4514180d48afd97e422739ab/Images/BUG%201.1.png)
+[BUG 1.2](https://github.com/JoannaKraciuk/portfolio/blob/f5fad4c84cc5154f4514180d48afd97e422739ab/Images/BUG%201.2.png)
 
 ### ❌**BU-2: Data remember function does not work**
 
-![Data remember function does not work](https://github.com/JoannaKraciuk/Photo/blob/066bc112dce1f9e4a2c30540f596f98e6207f039/Screen%20BU-2.png)
-![Screenshot BU-2](https://github.com/JoannaKraciuk/Photo/blob/066bc112dce1f9e4a2c30540f596f98e6207f039/Screen%20BU-2.2.png)
+![Data remember function does not work](https://github.com/JoannaKraciuk/portfolio/blob/f5fad4c84cc5154f4514180d48afd97e422739ab/Images/Jira%20BUG%202.1.png)
+![Screenshot BU-2](https://github.com/JoannaKraciuk/portfolio/blob/f5fad4c84cc5154f4514180d48afd97e422739ab/Images/Jira%20BUG%202.2.png)
 
 Attachments:
-[BUG 2](https://drive.google.com/file/d/1-sKfjmW0CCjCORcfoY5jGFy0xEmVWh9o/view?usp=sharing)
-[BUG 2.1](https://drive.google.com/file/d/12tQos2Nl0dYT-BA422M3Vk6z9-wAEEIE/view?usp=sharing)
+[BUG 2](https://github.com/JoannaKraciuk/portfolio/blob/f5fad4c84cc5154f4514180d48afd97e422739ab/Images/BUG%202.1.png)
+[BUG 2.1](https://github.com/JoannaKraciuk/portfolio/blob/f5fad4c84cc5154f4514180d48afd97e422739ab/Images/BUG%202.2.png)
 
 ### ❌**BU-3: The user can not change the password**
 
-![The user can not change the password](https://github.com/JoannaKraciuk/Photo/blob/20705a16e7ebd78045e012f8c044c85e0bff17fd/BUG%20-3.png)
-![Screenshot BU-3.1](https://github.com/JoannaKraciuk/Photo/blob/20705a16e7ebd78045e012f8c044c85e0bff17fd/BUG%203.1.png)
+![The user can not change the password](https://github.com/JoannaKraciuk/portfolio/blob/f5fad4c84cc5154f4514180d48afd97e422739ab/Images/Jira%20BUG%203.1.png)
+![Screenshot BU-3.1](https://github.com/JoannaKraciuk/portfolio/blob/f5fad4c84cc5154f4514180d48afd97e422739ab/Images/Jira%20BUG%203.2.png)
 
 Attachments:
-[BUG 3](https://drive.google.com/file/d/1LQh8li7SBr0q-bM88UqGWVPm0n3dvJ6H/view?usp=sharing)
-[BUG 3.1](https://drive.google.com/file/d/1jv2Ox5E9yvZKY00_KK6qwKR7DNQhTbuB/view?usp=sharing)
+[BUG 3](https://github.com/JoannaKraciuk/portfolio/blob/f5fad4c84cc5154f4514180d48afd97e422739ab/Images/BUG%203.1.png)
+[BUG 3.1](https://github.com/JoannaKraciuk/portfolio/blob/f5fad4c84cc5154f4514180d48afd97e422739ab/Images/BUG%203.2.png)
 
