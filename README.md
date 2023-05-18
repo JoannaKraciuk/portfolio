@@ -23,6 +23,8 @@ My name is Joanna Kraciuk. I am master of two performed art and master of music 
 * "Kurs Git dla początkujących" Udemy
 * "Podstawy SCRUM, Agile, Teoria, Praktyka, Certyfikacja" Udemy
 # 🖋️Courses
+* "100 Days of Code: The Complete Python Pro Bootcamp for 2023" - w trakcie
+* Kurs Selenium Python od podstaw
 * Testowanie oprogramowania i rozwój kompetencji cyfrowych DIGCOMP luty-czerwiec 2022
 * uTest Academy
 * "Testowanie Rest Api - wprowadzenie" Akademia QA
