@@ -7,6 +7,7 @@ My name is Joanna Kraciuk. I am master of two performed art and master of music 
 * MySQL
 * Postman
 * TestLink
+* Selenium
 * Git
 # 👩‍💻 Tech skills
 * Creating test case
