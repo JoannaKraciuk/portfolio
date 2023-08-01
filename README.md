@@ -57,4 +57,6 @@ My name is Joanna Kraciuk. I am master of two performed art and master of music 
 * Test scenario and bug reports https://drive.google.com/drive/folders/1Jzx7RyQDDpETEfMKb-nzECp3zHwMXjhk?usp=sharing
 * Bug reports  https://drive.google.com/drive/folders/1lVQGlDuNAoRI2HzJ7y8nn48m25Dir4Wj?usp=sharin
 * Test reports https://drive.google.com/drive/folders/1DhJCQdj8xPyGIIhHHBB3gCwsU3EkDAB-?usp=sharing
+* Dare IT Chellange Automation Tests + Python ➡️[Link to repository](https://github.com/JoannaKraciuk/Challenge_portfolio_joanna.git)
+* Robot Framework repository ➡️[Link to repository](https://github.com/JoannaKraciuk/panelscout_robotframework.git)
 
